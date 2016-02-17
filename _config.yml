@@ -1,0 +1,29 @@
+name: SYFTKOGTECH
+favicon: null
+layout_spectrum: 0.6252889754250646
+typography_spectrum: 0.6866728221066296
+title: 'IT / MAC /PC TECH SUPPORT '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5265291074756533
+  lightness: 0.287311170483008
+  saturation: 0.12113218265585601
+  rhythmicContrast: 0.3838620027527213
+purpose: []
