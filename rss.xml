@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SYFTKOGTECH]]></title>
-        <description><![CDATA[SYFTKOGTECH]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[IT / MAC /PC TECH SUPPORT ]]></title>
+        <description><![CDATA[IT / MAC /PC TECH SUPPORT ]]></description>
+        <link>https://thegrid.ai/syftkogtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:19:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 21:32:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/syftkogtech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Student debt protests planned after armed marshals arrest man for old loans]]></title>
+            <description><![CDATA[<article><h1>Student debt protests planned after armed marshals arrest man for old loans</h1><p>Student debt protests planned after armed marshals arrest man for old loans
+
+The US marshals’ office plans to serve more than 1,200 warrants for unpaid student loans as for-profit college students deman
+
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0515553032295be607d95b2f82b982eeeb61d457.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/money/2016/feb/16/student-debt-protest-armed-marshals-arrest-man-loans</link>
+            <guid isPermaLink="false">0d16c592-8c87-4119-81d6-b1332b4f0c1e</guid>
+            <pubDate>Sat, 20 Feb 2016 21:30:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dc2a86d-408e-4953-84ed-4210fa758c5d.png">]]></description>
-            <link>undefinedfd438c0c-0c67-4a0a-8c36-3775385157da/index.html</link>
+            <link>https://thegrid.ai/syftkogtech/fd438c0c-0c67-4a0a-8c36-3775385157da/index.html</link>
             <guid isPermaLink="false">fd438c0c-0c67-4a0a-8c36-3775385157da</guid>
             <pubDate>Wed, 17 Feb 2016 06:18:28 GMT</pubDate>
         </item>
