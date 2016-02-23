@@ -2,12 +2,13 @@ name: SYFTKOGTECH
 favicon: null
 layout_spectrum: 0.6252889754250646
 typography_spectrum: 0.6866728221066296
+title: 'IT / MAC /PC TECH SUPPORT '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74195413-1
   facebook: null
   twitter: null
 opengraph:
